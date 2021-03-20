@@ -72,9 +72,37 @@ then the person has no sleep apnea but if the AHI is greater than 30 then the pe
 
 <img height="150" width="450" src="https://github.com/akshitagupta15june/OSASense/blob/main/Images/ahi.png">
 
+</br>
+
+###### We apply a modern machine learning method, the support vector machine and TensorFlow (open-source software library) to establish a predicting model for the severity of OSA. 
 
 
+we establish a prediction model for Asians by taking body shape profiles and age into account via SVM.
+We hypothesize that the established predictors are accurate for OSA severity. To confirm this hypothesis, 
+we collected two large patient databases from two independent sleep labs and designed a prediction model for the OSA severity based on body shape profiles. 
+
+We randomly partitioned the data into the training dataset and the testing dataset, with the training dataset being created by randomly selecting 20% of the patients while the remainder serving as the testing dataset.
+
+###### Positive (1) and negative (0) results of patients are predicted in our model:
 
 
+<img src="https://github.com/akshitagupta15june/OSASense/blob/main/Images/positive.jpg">
+<img src="https://github.com/akshitagupta15june/OSASense/blob/main/Images/negative.jpg">
+
+Age, sex, weight and height, Epworth Sleepiness Scale (ESS), BQ (Behavioural Quotient). Furthermore, the anthropometric features such as head, buttock, waist and neck circumferences were also measured in the sleep lab. 
+
+
+</br>
+
+<img src="https://github.com/akshitagupta15june/OSASense/blob/main/Images/acc.jpg">
+
+
+The BQ is composed of three categories including snoring behaviour, waketime sleepiness or fatigue, and obesity and/or hypertension. Each of these categories is classified as severe or not severe. If two out of three categories are severe, then the patient is of high risk with BQ number 1; otherwise the patient is of low risk with BQ number 0.
+
+</br>
+
+<img src="https://github.com/akshitagupta15june/OSASense/blob/main/Images/accuracy.jpg">
+
+#### The accuracy was approximately 77.02% by using SVM. As the accuracy by SVM was low so we used TensorFlow. TensorFlow is a free and open-source software library for dataflow and differentiable programming across a range of tasks. We have used tf.keras, a high-level API to build and train the model in TensorFlow and we got accuracy of 78.4%.
 
 
