@@ -12,13 +12,10 @@
 </br>
 
 #### Excessive sleepiness,severe snoring,choking while sleeping are the main symptoms of Sleep Apnea. 
-
-#### Due to delayed diagnosis, it can lead to chronic and fatal health conditions.
-
-#### Obstructive Sleep Apnea causes Asthma,Diabetes, Hypertension or Heart Attack. Can Also be indicative of ALZHEIMER’S !
+Due to delayed diagnosis, it can lead to chronic and fatal health conditions. Obstructive Sleep Apnea causes Asthma,Diabetes, Hypertension or Heart Attack. Can Also be indicative of ALZHEIMER’S !
 
 
-The pain points include:
+#### The pain points include:
 
 1) Difficulty in early diagnosis leading to surgical complications.
 2) Hectic procedures at the Sleep Labs and most importantly Delayed diagnostic.
@@ -38,6 +35,8 @@ Prediction of the severity of obstructive sleep apnea by anthropometric features
 
 </br>
 
+## Our Application Flow-:
+
 1) It’s pretty handy to use. The patient clicks on the app.
 
 2) Answers a few simple questions and on the basis of that you get a report whether or not you have sleep apnea.
@@ -46,17 +45,16 @@ Prediction of the severity of obstructive sleep apnea by anthropometric features
 
 
 
-#### Technical Requirements:
+## Technical Requirements:
 
-##### Google Collab GPU: Tesla T4 (compute capability: 7.5 ITR/SEC)
+1) Google Collab GPU: Tesla T4 (compute capability: 7.5 ITR/SEC)
 
-##### Dataset of sleep labs: [SLEEP-DATA](https://github.com/akshitagupta15june/OSASense/blob/main/Sleep-lab-Dataset/sleeep_apnea_data.xlsx)
+2) Dataset of sleep labs: [SLEEP-DATA](https://github.com/akshitagupta15june/OSASense/blob/main/Sleep-lab-Dataset/sleeep_apnea_data.xlsx)
 
 The dataset of Patients information was collected from two independent sleep centres at the Taipei Medical University Hospital (TMUH, Taipei, Taiwan)
-and Shuang-Ho Hospital (SHH, New Taipei City, Taiwan).The inclusion criteria for this study were patients referred for suspected sleep disordered breathing, ages between 20 and 80 
+and Shuang-Ho Hospital (SHH, New Taipei City, Taiwan).The inclusion criteria for this study were patients referred for suspected sleep disordered breathing, ages between 20 and 80.
 
-
-##### Sample Image of the dataset
+Sample Image of the dataset
 
 <img src="https://github.com/akshitagupta15june/OSASense/blob/main/Images/datset.jpeg">
 
@@ -74,7 +72,9 @@ then the person has no sleep apnea but if the AHI is greater than 30 then the pe
 
 </br>
 
-###### We apply a modern machine learning method, the support vector machine and TensorFlow (open-source software library) to establish a predicting model for the severity of OSA. 
+## Approach of solution
+
+We apply a modern machine learning method, the support vector machine and TensorFlow (open-source software library) to establish a predicting model for the severity of OSA. 
 
 
 we establish a prediction model for Asians by taking body shape profiles and age into account via SVM.
