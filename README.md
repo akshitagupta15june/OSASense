@@ -32,19 +32,22 @@ a scale that tells whether or not you have Sleep Apnea and how severe it is.
 
 #### Technical Requirements:
 
-Google Collab GPU: Tesla T4 (compute capability: 7.5 ITR/SEC)
+##### Google Collab GPU: Tesla T4 (compute capability: 7.5 ITR/SEC)
 
-Dataset of sleep labs: [SLEEP-DATA](https://github.com/akshitagupta15june/OSASense/blob/main/Sleep-lab-Dataset/sleeep_apnea_data.xlsx)
+##### Dataset of sleep labs: [SLEEP-DATA](https://github.com/akshitagupta15june/OSASense/blob/main/Sleep-lab-Dataset/sleeep_apnea_data.xlsx)
 
 The dataset of Patients information was collected from two independent sleep centres at the Taipei Medical University Hospital (TMUH, Taipei, Taiwan)
 and Shuang-Ho Hospital (SHH, New Taipei City, Taiwan).The inclusion criteria for this study were patients referred for suspected sleep disordered breathing, ages between 20 and 80 
 
+##### Sample Image of the dataset
 
-
+<img src="https://github.com/akshitagupta15june/OSASense/blob/main/Images/datset.jpeg">
 
 
 
 AHI: Apnea hypopnea index we have considered that if AHI is greater than 15 and less than 30 then the person has no sleep apnea but if the AHI is greater than 30 then the person is positive with sleep apnea. 
+
+</br>
 
 <img height="150" width="450" src="https://github.com/akshitagupta15june/OSASense/blob/main/Images/ahi.png">
 
