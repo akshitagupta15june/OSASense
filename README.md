@@ -35,6 +35,12 @@ Prediction of the severity of obstructive sleep apnea by anthropometric features
 
 </br>
 
+<div align="center">
+<img src="https://github.com/akshitagupta15june/OSASense/blob/main/Images/sleepl.jpeg">
+</div>
+
+</br>
+
 ## Our Application Flow-:
 
 1) It’s pretty handy to use. The patient clicks on the app.
