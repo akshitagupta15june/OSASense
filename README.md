@@ -127,3 +127,7 @@ The BQ is composed of three categories including snoring behaviour, waketime sle
 
 
 ##### The patient will be notified and about the nearby sleep lab and he/she can go for further check ups.
+
+
+<img height=400 width=200 src="https://github.com/akshitagupta15june/OSASense/blob/main/Images/map.jpg">
+
