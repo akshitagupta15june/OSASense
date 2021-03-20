@@ -11,7 +11,11 @@
 
 </br>
 
-#### Excessive sleepiness,severe snoring,choking while sleeping are the main symptoms of Sleep Apnea. Due to delayed diagnosis, it can lead to chronic and fatal health conditions.Obstructive Sleep Apnea causes Asthma,Diabetes, Hypertension or Heart Attack. Can Also be indicative of ALZHEIMER’S !
+#### Excessive sleepiness,severe snoring,choking while sleeping are the main symptoms of Sleep Apnea. 
+
+#### Due to delayed diagnosis, it can lead to chronic and fatal health conditions.
+
+#### Obstructive Sleep Apnea causes Asthma,Diabetes, Hypertension or Heart Attack. Can Also be indicative of ALZHEIMER’S !
 
 
 The pain points include:
