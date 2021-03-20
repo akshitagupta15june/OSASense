@@ -51,7 +51,7 @@ by anthropometric features via support vector machine(SVM).
 
 3) We are using Machine Learning(SVM) algorithm for finding out the AHI(The apnea-hypopnea index), a scale that tells whether or not you have Sleep Apnea and how severe it is.
 
-
+</br>
 
 ## Technical Requirements:
 
