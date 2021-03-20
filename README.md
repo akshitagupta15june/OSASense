@@ -51,7 +51,6 @@ AHI: Apnea hypopnea index we have considered that if AHI is greater than 15 and 
 
 <img height="150" width="450" src="https://github.com/akshitagupta15june/OSASense/blob/main/Images/ahi.png">
 
-The model was confirmed with high prediction rates on two independently large databases. It was found to be particularly accurate in discriminating patients with AHI higher or lower than 30 in the Asian young female group. 
 
 
 
