@@ -119,9 +119,11 @@ The BQ is composed of three categories including snoring behaviour, waketime sle
 </br>
 <img height=400 width=700 src="https://github.com/akshitagupta15june/OSASense/blob/main/Images/mo2.png">
 </br>
-##### On the basis of this information, ML algorithms  will calculate AHI by taking reference from the data of the diseased population procured at backend from the Sleep labs. The final result will be a predictive analysis.
 
-<img height=400 width=700 src="https://github.com/akshitagupta15june/OSASense/blob/main/Images/5.png">
+
+#### On the basis of this information, ML algorithms  will calculate AHI by taking reference from the data of the diseased population procured at backend from the Sleep labs. The final result will be a predictive analysis.
+
+<img height=300 width=250 src="https://github.com/akshitagupta15june/OSASense/blob/main/Images/5.png">
 
 
 
