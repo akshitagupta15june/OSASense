@@ -108,6 +108,20 @@ The BQ is composed of three categories including snoring behaviour, waketime sle
 
 #### APP MOQUPS
 
+
+##### These are app moqups. 
+##### The suspected patient logs in. He’s required to answer questions of BQ like Snoring behaviour, obesity etc. 
+
+
 <img height=400 width=700 src="https://github.com/akshitagupta15june/OSASense/blob/main/Images/mo1.png">
+
+##### Followed by Epworth Sleep Scale and finally Anthropometric measures like Neck Size, Buttok Size, BMI.
 </br>
 <img height=400 width=700 src="https://github.com/akshitagupta15june/OSASense/blob/main/Images/mo2.png">
+</br>
+##### On the basis of this information, ML algorithms  will calculate AHI by taking reference from the data of the diseased population procured at backend from the Sleep labs. The final result will be a predictive analysis.
+
+<img height=400 width=700 src="https://github.com/akshitagupta15june/OSASense/blob/main/Images/5.png">
+
+
+
