@@ -57,8 +57,7 @@ by anthropometric features via support vector machine(SVM).
 1) Google Collab GPU: Tesla T4 (compute capability: 7.5 ITR/SEC)
 
 2) Dataset of sleep labs: [SLEEP-DATA](https://github.com/akshitagupta15june/OSASense/blob/main/Sleep-lab-Dataset/sleeep_apnea_data.xlsx)
-
-                          [SLEEP-SET](https://github.com/akshitagupta15june/OSASense/blob/main/Sleep-lab-Dataset/sleep-set.xlsx)
+[SLEEP-SET](https://github.com/akshitagupta15june/OSASense/blob/main/Sleep-lab-Dataset/sleep-set.xlsx)
 
 The dataset of Patients information was collected from two independent sleep centres at the Taipei Medical University Hospital (TMUH, Taipei, Taiwan)
 and Shuang-Ho Hospital (SHH, New Taipei City, Taiwan).The inclusion criteria for this study were patients referred for suspected sleep disordered breathing, ages between 20 and 80.
