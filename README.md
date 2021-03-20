@@ -1,5 +1,6 @@
-# OSASense
+
 <div align="center">
+  <h1>OSASense</h1>
 <img width="200" height="200" src="https://github.com/akshitagupta15june/OSASense/blob/main/Images/osasense.jpeg">
 </div>
 
