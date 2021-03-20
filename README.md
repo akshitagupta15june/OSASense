@@ -110,4 +110,4 @@ The BQ is composed of three categories including snoring behaviour, waketime sle
 
 <img height=400 width=600 src="https://github.com/akshitagupta15june/OSASense/blob/main/Images/mo1.png">
 </br>
-<img height=400 width=600 src=""https://github.com/akshitagupta15june/OSASense/blob/main/Images/mo2.png"">
+<img height=400 width=600 src="https://github.com/akshitagupta15june/OSASense/blob/main/Images/mo2.png">
