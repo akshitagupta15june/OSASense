@@ -30,7 +30,8 @@ Due to delayed diagnosis, it can lead to chronic and fatal health conditions. Ob
 ```
 A Screening solution for Obstructive Sleep Apnea that also helps us to 
 monitor the severity of the disease using ML and mobile application.
-Prediction of the severity of obstructive sleep apnea by anthropometric features via support vector machine(SVM). 
+Prediction of the severity of obstructive sleep apnea
+by anthropometric features via support vector machine(SVM). 
 ```
 
 </br>
