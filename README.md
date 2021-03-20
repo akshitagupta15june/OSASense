@@ -33,6 +33,7 @@ Prediction of the severity of obstructive sleep apnea by anthropometric features
 ```
 
 </br>
+
 1) It’s pretty handy to use. The patient clicks on the app.
 
 2) Answers a few simple questions and on the basis of that you get a report whether or not you have sleep apnea.
