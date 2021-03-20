@@ -133,3 +133,18 @@ When we add a new dataset in the previous one so the accuracy for increased.
 
 <img height=400 width=200 src="https://github.com/akshitagupta15june/OSASense/blob/main/Images/map.jpg">
 
+
+
+A better understanding of these will help in the development of novel therapies. Further research is also needed to identify biomarkers for patients at risk for consequences of OSA as well as predictors for treatment success to enable the development of individual therapeutic approaches for the implementation of personalized medicine.
+
+
+References:
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4739955/
+
+https://www.resmed.co.in/blogs/prevalence-sleep-apnea-india
+
+https://www.lungindia.com/article.asp?issn=0970-2113;year=2018;volume=35;issue=4;spage=301;epage=306;aulast=Pinto
+
+
+
