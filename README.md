@@ -20,7 +20,8 @@ Due to delayed diagnosis, it can lead to chronic and fatal health conditions. Ob
 1) Difficulty in early diagnosis leading to surgical complications.
 2) Hectic procedures at the Sleep Labs and most importantly Delayed diagnostic.
 3) less availability approx 500 sleep labs.
-4) Smoking can increase the amount of inflammation and fluid retention in the upper airway. 
+4) Smoking can increase the amount of inflammation
+and fluid retention in the upper airway. 
 
 
 </br>
