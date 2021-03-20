@@ -2,6 +2,10 @@
 <div align="center">
 <img width="200" height="200" src="https://github.com/akshitagupta15june/OSASense/blob/main/Images/osasense.jpeg">
 </div>
+
+</br>
+
+
 963+ million Number of Patients suffering from Sleep Apnea around the World. Indians are 33% suffering from Sleep Apnea Disorder.As per recent studies NIH and NetMeds India, Indian population is at the high risk of Obstructive Sleep Apnea due to the anatomy, Overweight and Hypertension.
 
 
