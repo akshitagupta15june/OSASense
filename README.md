@@ -22,8 +22,11 @@ The pain points include:
 
 ## What is OSASense?
 
-A Screening solution for Obstructive Sleep Apnea that also helps us to monitor the severity of the disease using ML and mobile application.
-Prediction of the severity of obstructive sleep apnea by anthropometric features via support vector machine(SVM).
+```
+A Screening solution for Obstructive Sleep Apnea that also helps us to 
+monitor the severity of the disease using ML and mobile application.
+Prediction of the severity of obstructive sleep apnea by anthropometric features via support vector machine(SVM). 
+```
 
 It’s pretty handy to use. The patient clicks on the app,
 answers a few simple questions and on the basis of that you get a report whether or not you have sleep apnea.
@@ -44,9 +47,10 @@ and Shuang-Ho Hospital (SHH, New Taipei City, Taiwan).The inclusion criteria for
 <img src="https://github.com/akshitagupta15june/OSASense/blob/main/Images/datset.jpeg">
 
 
-
-AHI: Apnea hypopnea index we have considered that if AHI is greater than 15 and less than 30 then the person has no sleep apnea but if the AHI is greater than 30 then the person is positive with sleep apnea. 
-
+```
+AHI: Apnea hypopnea index we have considered that if AHI is greater than 15 and less than 30
+then the person has no sleep apnea but if the AHI is greater than 30 then the person is positive with sleep apnea. 
+```
 </br>
 
 <img height="150" width="450" src="https://github.com/akshitagupta15june/OSASense/blob/main/Images/ahi.png">
