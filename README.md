@@ -26,4 +26,8 @@ a scale that tells whether or not you have Sleep Apnea and how severe it is.
 
 
 
+Google Collab GPU: Tesla T4 (compute capability: 7.5 ITR/SEC)
+
+Dataset of sleep labs: [SLEEP-DATA](https://github.com/akshitagupta15june/OSASense/blob/main/Sleep-lab-Dataset/sleeep_apnea_data.xlsx)
+
 
