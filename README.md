@@ -33,10 +33,11 @@ Prediction of the severity of obstructive sleep apnea by anthropometric features
 ```
 
 </br>
-It’s pretty handy to use. The patient clicks on the app,
-answers a few simple questions and on the basis of that you get a report whether or not you have sleep apnea.
-We are using Machine Learning(SVM) algorithm for finding out the AHI(The apnea-hypopnea index), 
-a scale that tells whether or not you have Sleep Apnea and how severe it is.
+1) It’s pretty handy to use. The patient clicks on the app.
+
+2) Answers a few simple questions and on the basis of that you get a report whether or not you have sleep apnea.
+
+3) We are using Machine Learning(SVM) algorithm for finding out the AHI(The apnea-hypopnea index), a scale that tells whether or not you have Sleep Apnea and how severe it is.
 
 
 
