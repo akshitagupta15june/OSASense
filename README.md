@@ -105,6 +105,8 @@ The BQ is composed of three categories including snoring behaviour, waketime sle
 
 #### The accuracy was approximately 77.02% by using SVM. As the accuracy by SVM was low so we used TensorFlow. TensorFlow is a free and open-source software library for dataflow and differentiable programming across a range of tasks. We have used tf.keras, a high-level API to build and train the model in TensorFlow and we got accuracy of 78.4%.
 
+When we add a new dataset in the previous one so the accuracy for increased.
+
 
 #### APP MOQUPS
 
