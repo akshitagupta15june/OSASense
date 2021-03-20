@@ -44,3 +44,14 @@ and Shuang-Ho Hospital (SHH, New Taipei City, Taiwan).The inclusion criteria for
 
 
 
+AHI: Apnea hypopnea index we have considered that if AHI is greater than 15 and less than 30 then the person has no sleep apnea but if the AHI is greater than 30 then the person is positive with sleep apnea. 
+
+<img height="150" width="450" src="https://github.com/akshitagupta15june/OSASense/blob/main/Images/ahi.png">
+
+The model was confirmed with high prediction rates on two independently large databases. It was found to be particularly accurate in discriminating patients with AHI higher or lower than 30 in the Asian young female group. 
+
+
+
+
+
+
