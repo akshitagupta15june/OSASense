@@ -50,7 +50,9 @@ by anthropometric features via support vector machine(SVM).
 2) Answers a few simple questions and on the basis of that you get a report whether or not you have sleep apnea.
 
 3) We are using Machine Learning(SVM) algorithm for finding out the AHI(The apnea-hypopnea index), a scale that tells whether or not you have Sleep Apnea and how severe it is.
-
+<div align="center">
+<img width=700 height=350 src="https://github.com/akshitagupta15june/OSASense/blob/main/Images/methods.png">
+</div>
 </br>
 
 ## Technical Requirements:
