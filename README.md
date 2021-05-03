@@ -26,11 +26,10 @@ and fluid retention in the upper airway.
 
 </br>
 
-## What is OSASense?
+## What is OSASense??
 
 ```
-A Screening solution for Obstructive Sleep Apnea that also helps us to 
-monitor the severity of the disease using ML and mobile application.
+A Screening solution for Obstructive Sleep Apnea that also helps us to monitor the severity of the disease using ML and mobile application.
 Prediction of the severity of obstructive sleep apnea
 by anthropometric features via support vector machine(SVM). 
 ```
